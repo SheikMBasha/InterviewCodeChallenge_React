@@ -31,7 +31,7 @@ Run the project using VS Code.
 * Open the project folder using VSCode.
 * Using terminal in the project directory, enter the command "dotnet build"
 * ![image](https://user-images.githubusercontent.com/6515261/169513395-78ab4f1a-a544-45a2-bedc-227bd12081ac.png)
-* Using terminal in the project directory, enter the command "dotnet run"dotnet
+* Using terminal in the project directory, enter the command "dotnet run"
 * ![image](https://user-images.githubusercontent.com/6515261/169513568-801bcf2b-0176-497e-bbd8-832072f3df4a.png)
 * Navigate to the URL mentioned in the terminal to browse.
 
